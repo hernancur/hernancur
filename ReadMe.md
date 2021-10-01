@@ -1,5 +1,5 @@
 <h1 align="left">Welcome! ⚡ I'm Hernan</h1>
-<h4 align="left">A solution developer from Uruguay. Since I felt the experience of teamwork in front of a project (it was incredible) i develop IT solutions for various problems. I've worked in different projects, individual and group, where I put my knowledge into practice. The tools I use are: Javascript - Node.js - Express - PostgreSQL - Html - React - Redux - Css - Scrum - Adobe Photoshop I am Backend oriented but I feel comfortable in any area and work role. If you would like to know more about me feel free to send me a message📩</h4>
+<h4 align="left">A solution developer from Uruguay. Since I felt the experience of teamwork in front of a project (it was incredible) i develop IT solutions for various problems. I've worked in different projects, individual and group, where I put my knowledge into practice. I'm Backend oriented but I feel comfortable in any area and work role.</h4>
 
 
 <h3 align="left">Languages and Tools</h3>
