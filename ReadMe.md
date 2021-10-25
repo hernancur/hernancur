@@ -8,7 +8,7 @@
 
 
 <h2 align="left">My latest proyect: COCO Mall</h2>
-<h4 align="left">COCO Mall is an online shopping, you can buy from all over the world and also sell in it through us! Enjoy the experience. From the Coco team. All the design is RESPONSIVE</h4>
+<h4 align="left">COCO Mall is an online shopping, you can buy from all over the world and also sell in it through us! All the design is RESPONSIVE Enjoy the experience. From the Coco team.</h4>
 
 <a href="https://coco-mall.vercel.app"><img src="https://i.ibb.co/hdmZ0mR/1.png" alt="1" border="0" ></a> 
 <a href="https://coco-mall.vercel.app"><img src="https://i.ibb.co/2yLpYh3/2.png" alt="2" border="0" ></a>
