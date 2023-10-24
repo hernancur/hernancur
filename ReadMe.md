@@ -1,9 +1,9 @@
 
-<h3 align="left">Entrepreneur, developer, and instructor with +3 years of experience. Specialized in web presence, growing and efficiency for professionals. Skilled in development and maintenance. </h3>
+<span align="left">Entrepreneur, developer, and instructor with +3 years of experience. Specialized in web presence, growing and efficiency for professionals. Skilled in development and maintenance. </span>
 
-<h4>My experience has enabled me to learn the business, raise the level of the product with accurate decision making and develop key skills such as data driven thinking and time management.</h4>
+<span align="left">My experience has enabled me to learn the business, raise the level of the product with accurate decision making and develop key skills such as data driven thinking and time management.</span>
 
-<span> When I'm not programming or studying, you'll likely find me perfecting my culinary creations. </span>
+<span align="left"> When I'm not programming or studying, you'll likely find me perfecting my culinary creations. </span>
 
 <hr/>
 
