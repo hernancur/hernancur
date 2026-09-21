@@ -1,18 +1,8 @@
+Curious human first, developer second.
+Backend engineer with 5+ years of experience designing scalable systems, solving complex problems, and translating business rules into reliable backend solutions. I specialize in JavaScript/TypeScript, with a strong focus on infrastructure, system performance, and clean code.
 
-<span align="left">Entrepreneur, developer, and instructor with +4 years of experience. Specialized in web presence, growing and efficiency for professionals. Skilled in development and maintenance. </span>
+I’ve driven the standardization and integration of e-commerce platforms using NestJS, AWS, Terraform, and CommerceTools. I collaborate cross-functionally to build robust APIs, define architecture, and ensure smooth deployments in fast-paced environments.
 
-<span align="left">My experience has enabled me to learn the business, raise the level of the product with accurate decision making and develop key skills such as data driven thinking and time management.</span>
+Outside of corporate work, I’ve mentored over 1,000 developers, and led teams with empathy and clarity bringing both technical depth and people skills to every challenge.
 
-<span align="left"> When I'm not programming or studying, you'll likely find me perfecting my culinary creations. </span>
-
-<hr/>
-
-
-<a href="https://hernancur.vercel.app" target="blank" >Vistit Hernan's portfolio</a> 
-
-<span> Feel free to get in touch </span>
-
-
-
-
-
+I’m passionate about driving real value. If you're looking for someone who builds with purpose and scales with precision let’s connect!
